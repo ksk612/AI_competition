@@ -1,2 +1,2 @@
-#2025 Republic of Korea Navy and Marine Corps AI Competition
+# 2025 Republic of Korea Navy and Marine Corps AI Competition
 
